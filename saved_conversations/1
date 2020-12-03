@@ -1,0 +1,39 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Hi my name is Rahul
+bot : - Hello! your name has been stored. What is your age?
+user : I am 21 years
+bot : - okay. your age has been stored. Which city do you live in?
+user : Kochi
+bot : - Hello. How are you feeling today?
+user : I am not feeling good
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I am having chest pain
+bot : - Okay, this is a symptom of cough , do you have cough?
+user : no I don't
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : I have chest pain
+bot : - Okay, this is a symptom of cough , do you have cough?
+user : yes
+bot : - Bye. Nice talking to you
+user : Hi
+bot : - Hello. How are you feeling today?
+user : I am feeling tired
+bot : - good to know. how may i assist you then?
+user : I am feeling sleepy
+bot : - good to know. how may i assist you then?
+user : I am feeling sad
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : I have taken crocin
+bot : - You should take a sudafed tablet after your meal.
+user : Yes I have taken sudafed
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : tension headache
+bot : - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. I advise you to consult a doctor about this.
+user : can you book?
+bot : - no i am completely offline
+user : can you book appointment
+bot : - Sorry no.. That is outside my capability :(
+user : oh no
+bot : - I am SHARS - Sophisticated Hospital and Retail System. Nice to meet you :)
+user : nice to meet you too
+bot : - Thank you. How can i assist you? How are you feeling today?
